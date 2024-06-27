@@ -158,11 +158,15 @@ git push origin main
 ```
 
 ## 5. Create a Pull Request:
-Go to your forked repository on GitHub.
-Click the "Compare & pull request" button.
-Provide a title and description for your pull request.
-Click "Create pull request".
 
+Go to your forked repository on GitHub.
+
+Click the "Compare & pull request" button.
+
+Provide a title and description for your pull request.
+
+Click "Create pull request"
+     
 ## 6. Write a Collaboration Request Message:
 
 In your pull request description, explain your changes and express your interest in further collaboration.
