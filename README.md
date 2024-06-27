@@ -166,6 +166,15 @@ Click the "Compare & pull request" button.
 Provide a title and description for your pull request.
 
 Click "Create pull request"
+
+## Request to be Added as a Collaborator:
+   - Once you have created a pull request, you can request to be added as a collaborator by doing the following:
+     - Open the [Issues](../../issues) tab of this repository.
+     - Click on "New Issue".
+     - Choose a title like "Request for Collaboration Access".
+     - In the description, provide details about the contributions you plan to make and include a link to your pull request.
+     - Click "Submit new issue".
+
      
 ## 6. Write a Collaboration Request Message:
 
