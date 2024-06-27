@@ -170,7 +170,7 @@ Example:
 
 ``` markdown
 
-                                                                                                                            Copy code
+                                                                                                                       Copy code
 Title: Request for Collaboration
                                                                                                                    
 Hi [Owner's Username],
