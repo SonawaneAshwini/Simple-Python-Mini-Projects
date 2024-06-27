@@ -136,25 +136,28 @@ Click on the "Fork" button at the top right corner to create a copy under your G
 
 ## 2. Clone Your Forked Repository:
 Open your terminal and run:
-sh
+```sh
 Copy code
 git clone https://github.com/your-username/python-mini-projects.git
 cd python-mini-projects
+```
 
 ## 3. Make Your Changes:
 Create a new branch for your changes:
-sh
+```sh
 Copy code
 git checkout -b feature-branch-name
+```
 Make the necessary changes to the project files.
 
 ## 4. Commit and Push Your Changes:
 Add and commit your changes:
-sh
+```sh
 Copy code
 git add .
 git commit -m "Initial commit with mini projects"
 git push origin main
+```
 
 ## 5. Create a Pull Request:
 Go to your forked repository on GitHub.
@@ -185,6 +188,8 @@ Please let me know if we can discuss this further.
 Best regards,
 [Your Name]
 [Your GitHub Profile Link]
+
+```
 
 
 
