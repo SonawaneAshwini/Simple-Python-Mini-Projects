@@ -172,7 +172,8 @@ markdown
 Copy code
 Hi [Owner's Username],
 
-I have added a new feature to the [Project Name] and would love to collaborate further. Here are the changes I made:
+I have added a new feature to the [Project Name] and would love to collaborate further. Here are the changes 
+I made:
 - [List of changes]
 
 I have been working on similar projects like an Age Calculator, Alarm Clock, and ATM Simulation, and I believe my skills can contribute significantly to this project.
