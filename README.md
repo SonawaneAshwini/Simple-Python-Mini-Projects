@@ -168,12 +168,9 @@ In your pull request description, explain your changes and express your interest
 
 Example:
 
-markdown
-Copy code
 Hi [Owner's Username],
 
-I have added a new feature to the [Project Name] and would love to collaborate further. Here are the changes 
-I made:
+I have added a new feature to the [Project Name] and would love to collaborate further. Here are the changes I made:
 - [List of changes]
 
 I have been working on similar projects like an Age Calculator, Alarm Clock, and ATM Simulation, and I believe my skills can contribute significantly to this project.
@@ -183,3 +180,4 @@ Please let me know if we can discuss this further.
 Best regards,
 [Your Name]
 [Your GitHub Profile Link]
+
