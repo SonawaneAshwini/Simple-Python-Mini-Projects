@@ -123,29 +123,32 @@ Description: A simple task scheduler to run tasks at specific times.
 
 Command: python python_task_scheduler.py
 
+
+
+
 # Requesting Collaboration
 If you are interested in collaborating on these projects, here’s how you can reach out to the project owner or collaborators effectively:
 
-## Fork the Repository:
+## 1. Fork the Repository:
 
 Go to the repository you want to contribute to.
 Click on the "Fork" button at the top right corner to create a copy under your GitHub account.
 
-## Clone Your Forked Repository:
+## 2. Clone Your Forked Repository:
 Open your terminal and run:
 sh
 Copy code
 git clone https://github.com/your-username/python-mini-projects.git
 cd python-mini-projects
 
-## Make Your Changes:
+## 3. Make Your Changes:
 Create a new branch for your changes:
 sh
 Copy code
 git checkout -b feature-branch-name
 Make the necessary changes to the project files.
 
-## Commit and Push Your Changes:
+## 4. Commit and Push Your Changes:
 Add and commit your changes:
 sh
 Copy code
@@ -153,13 +156,13 @@ git add .
 git commit -m "Description of the changes"
 git push origin feature-branch-name
 
-## Create a Pull Request:
+## 5. Create a Pull Request:
 Go to your forked repository on GitHub.
 Click the "Compare & pull request" button.
 Provide a title and description for your pull request.
 Click "Create pull request".
 
-## Write a Collaboration Request Message:
+## 6. Write a Collaboration Request Message:
 
 In your pull request description, explain your changes and express your interest in further collaboration.
 
