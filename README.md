@@ -159,15 +159,13 @@ git push origin main
 
 ## 5. Create a Pull Request:
 
-Go to your forked repository on GitHub.
+   - Go to your forked repository on GitHub.
+   - Click the "Compare & pull request" button.
+   - Provide a title and description for your pull request.
+   - Click "Create pull request".
 
-Click the "Compare & pull request" button.
+## 6. Request to be Added as a Collaborator:
 
-Provide a title and description for your pull request.
-
-Click "Create pull request"
-
-## Request to be Added as a Collaborator:
    - Once you have created a pull request, you can request to be added as a collaborator by doing the following:
      - Open the [Issues](../../issues) tab of this repository.
      - Click on "New Issue".
@@ -176,7 +174,7 @@ Click "Create pull request"
      - Click "Submit new issue".
 
      
-## 6. Write a Collaboration Request Message:
+## 7. Write a Collaboration Request Message:
 
 In your pull request description, explain your changes and express your interest in further collaboration.
 
