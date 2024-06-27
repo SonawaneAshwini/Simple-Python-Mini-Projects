@@ -202,6 +202,7 @@ Best regards,
 
 
 
+
 ## Contributing
 I am open to collaboration! If you have any suggestions, improvements, or new project ideas, feel free to fork this repository, 
 make your changes, and create a pull request. You can also open an issue to discuss your ideas.
