@@ -39,85 +39,85 @@ Description: Sets an alarm for a specified time and plays a sound.
 
 Command: ```python alarm_clock.py```
 
-## ATM Simulation
+### ATM Simulation
 
 Description: Simulates basic ATM operations like withdrawal, deposit, and balance inquiry.
 
 Command: ```python atm_simulation.py```
 
-## Binary-Decimal Converter
+### Binary-Decimal Converter
 
 Description: Converts numbers between binary and decimal formats.
 
 Command: ```python binary_decimal_converter.py```
 
-## BMI Calculator
+### BMI Calculator
 
 Description: Calculates Body Mass Index (BMI) from height and weight.
 
 Command: ```python bmi_calculator.py```
 
-## Calculator
+### Calculator
 
 Description: Performs basic arithmetic operations.
 
 Command: ```python calculator.py```
 
-## Chess Game
+### Chess Game
 
 Description: A simple chess game implementation.
 
 Command: ```python chess_game.py```
 
-## Countdown Timer
+### Countdown Timer
 
 Description: A countdown timer that counts down from a specified time.
 
 Command: ```python countdown_timer.py```
 
-## Digital Whiteboard
+### Digital Whiteboard
 
 Description: A digital whiteboard for drawing and erasing.
 
 Command: ```python digital_whiteboard.py```
 
-## Get IP Address and Hostname
+### Get IP Address and Hostname
 
 Description: Retrieves the IP address and hostname of the machine.
 
 Command: ```python get_ip_address_and_hostname.py```
 
-## Ludo Game
+### Ludo Game
 
 Description: A simple Ludo game implementation.
 
 Command: ```python ludo_game.py```
 
-## Number Guessing Game
+### Number Guessing Game
 
 Description: A game where the player guesses a number within a range.
 
 Command: ```python number_guessing_game.py```
 
-## Palindrome Checker
+### Palindrome Checker
 
 Description: Checks if a given string is a palindrome.
 
 Command: ```python palindrome_checker.py```
 
-## Personal Expenses Tracker
+### Personal Expenses Tracker
 
 Description: Tracks personal expenses and provides summaries.
 
 Command: ```python personal_expenses_tracker.py```
 
-## Python Quiz Application
+### Python Quiz Application
 
 Description: A quiz application with multiple-choice questions.
 
 Command: ```python python_quiz_application.py```
 
-## Python Task Scheduler
+### Python Task Scheduler
 
 Description: A simple task scheduler to run tasks at specific times.
 
