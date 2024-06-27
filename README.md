@@ -63,7 +63,15 @@ python age_calculator.py
 ```
 
 
+## Contributors ✨
 
+
+- Ashwini Sonawane
+  - Contact: ashwinisonawane9853@gmail.com
+  - GitHub: [Profile](https://github.com/SonawaneAshwini)
+- Shravan Dalavi
+  - Contact: shravandalavi137@gmail.com
+  - GitHub:[Profile]( https://github.com/ShravanDalavi)
 
 
 
