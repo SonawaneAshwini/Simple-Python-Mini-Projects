@@ -169,7 +169,7 @@ In your pull request description, explain your changes and express your interest
 Example:
 
 ``` markdown
-                                                                                                  Copy code
+                                                                                                                    Copy code
 Hi [Owner's Username],
 
 I have added a new feature to the [Project Name] and would love to collaborate further. Here are the changes I made:
