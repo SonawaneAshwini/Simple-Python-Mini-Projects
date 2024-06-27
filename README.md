@@ -4,25 +4,28 @@
 This is a collection of Python mini projects demonstrating various functionalities, from basic calculations to game simulations. 
 Below is an index of the projects followed by a brief one-liner description and the essential commands to run each.
 
-# Index of Projects
+# Python Mini Projects
 
-Age Calculator
-Alarm Clock
-ATM Simulation
-Binary-Decimal Converter
-BMI Calculator
-Calculator
-Chess Game
-Countdown Timer
-Digital Whiteboard
-Get IP Address and Hostname
-Ludo Game
-Number Guessing Game
-Palindrome Checker
-Personal Expenses Tracker
-Python Quiz Application
-Python Task Scheduler
-Project Descriptions and Commands
+This repository contains a collection of Python mini projects. Below is a list of the projects included:
+
+1. Age Calculator
+2. Alarm Clock
+3. ATM Simulation
+4. Binary-Decimal Converter
+5. BMI Calculator
+6. Calculator
+7. Chess Game
+8. Countdown Timer
+9. Digital Whiteboard
+10. Get IP Address and Hostname
+11. Ludo Game
+12. Number Guessing Game
+13. Palindrome Checker
+14. Personal Expenses Tracker
+15. Python Quiz Application
+16. Python Task Scheduler
+
+# Project Descriptions and Commands
 
 ## Age Calculator
 
