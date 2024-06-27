@@ -133,6 +133,7 @@ If you are interested in collaborating on these projects, here’s how you can r
 
 Go to the repository you want to contribute to.
 Click on the "Fork" button at the top right corner to create a copy under your GitHub account.
+Learn about [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) and [clonning a repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 
 ## 2. Clone Your Forked Repository:
 Open your terminal and run:
