@@ -25,6 +25,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 14. Personal Expenses Tracker
 15. Python Quiz Application
 16. Python Task Scheduler
+17. [Python Task Scheduler](#python-task-scheduler)
 
 
 
