@@ -162,6 +162,7 @@ Click "Create pull request".
 ## Write a Collaboration Request Message:
 
 In your pull request description, explain your changes and express your interest in further collaboration.
+
 Example:
 
 markdown
