@@ -153,8 +153,8 @@ Add and commit your changes:
 sh
 Copy code
 git add .
-git commit -m "Description of the changes"
-git push origin feature-branch-name
+git commit -m "Initial commit with mini projects"
+git push origin main
 
 ## 5. Create a Pull Request:
 Go to your forked repository on GitHub.
@@ -169,7 +169,10 @@ In your pull request description, explain your changes and express your interest
 Example:
 
 ``` markdown
-                                                                                                                    Copy code
+
+                                                                                                                            Copy code
+Title: Request for Collaboration
+                                                                                                                   
 Hi [Owner's Username],
 
 I have added a new feature to the [Project Name] and would love to collaborate further. Here are the changes I made:
@@ -182,6 +185,8 @@ Please let me know if we can discuss this further.
 Best regards,
 [Your Name]
 [Your GitHub Profile Link]
+
+
 
 
 
