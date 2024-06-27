@@ -27,13 +27,13 @@ This repository contains a collection of Python mini projects. Below is a list o
 
 # Project Descriptions and Commands
 
-## Age Calculator
+### Age Calculator
 
 Description: Calculates the age based on the date of birth input.
 
 Command: ```python age_calculator.py```
 
-## Alarm Clock
+### Alarm Clock
 
 Description: Sets an alarm for a specified time and plays a sound.
 
