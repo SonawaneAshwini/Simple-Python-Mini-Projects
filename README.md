@@ -1,6 +1,6 @@
 # Python-Mini-Project
 
-# Project Showcase
+
 This is a collection of Python mini projects demonstrating various functionalities, from basic calculations to game simulations. 
 Below is an index of the projects followed by a brief one-liner description and the essential commands to run each.
 
