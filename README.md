@@ -73,6 +73,12 @@ python age_calculator.py
     
 This will clear all the outputs and now you can understand each statement and learn interactively.
 
+## Licence 📜
+
+You may use this tutorial freely at your own risk. See [LICENSE](./LICENSE).
+
+
+
 
 
 ## Contributors ✨
