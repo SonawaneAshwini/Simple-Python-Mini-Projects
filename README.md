@@ -42,13 +42,6 @@ To run any of the projects, follow these steps:
      ```
    - Replace `project_file.py` with the actual file name of the project you want to run.
 
-### Projects
-
-#### Age Calculator
-To run the Age Calculator, navigate to its directory and use the following command:
-```sh
-python age_calculator.py
-```
 
 
 
