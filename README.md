@@ -9,7 +9,7 @@ These mini projects showcase Python's versatility in practical applications, cov
 This repository contains a collection of Python mini projects. Below is a list of the projects included:
 
 
-1. [Age Calculator](#age-calculator)
+1. [Age Calculator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Alarm%20Clock)
 2. [Alarm Clock](#alarm-clock)
 3. [ATM Simulation](#atm-simulation)
 4. [Binary-Decimal Converter](#binary-decimal-converter)
