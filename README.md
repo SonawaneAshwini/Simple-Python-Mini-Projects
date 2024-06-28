@@ -9,8 +9,9 @@ These mini projects showcase Python's versatility in practical applications, cov
 This repository contains a collection of Python mini projects. Below is a list of the projects included:
 
 
-
-1. [Alarm Clock](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Alarm%20Clock)
+| **No.** | **Name** | 
+| ------- | -------- | 
+|	01	| **[Alarm Clock](https://github.com/ShravanDalavi/Simple-Python-Mini-Projects/tree/main/Alarm%20Clock)** |
 
 
 
