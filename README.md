@@ -47,14 +47,11 @@ To run any of the projects, follow these steps:
 
 
 
-
-
 ## How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 
 1. Go [**`here`**](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects) and click the big green ➞  **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/archive/refs/heads/main.zip).
 
   ![image](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/assets/172588428/9d3dfb79-474e-4a0a-af5b-1e3ff3a784ef)
-
 
 
 
@@ -66,10 +63,11 @@ To run any of the projects, follow these steps:
     
 This will clear all the outputs and now you can understand each statement and learn interactively.
 
+
+
 ## Licence 📜
 
 You may use this tutorial freely at your own risk. See [LICENSE](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/blob/main/LICENSE).
-
 
 
 
@@ -88,6 +86,7 @@ You may use this tutorial freely at your own risk. See [LICENSE](https://github.
 
 
 
+**If you like this tutorial, please [give it a ⭐ star](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects).**
 
 Happy coding!
 
