@@ -60,7 +60,8 @@ python age_calculator.py
 
 1. Go [**`here`**](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects) and click the big green ➞  **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/shravandalavi/Simple-Python-Mini-Projects/archive/refs/heads/main.zip).
 
-  ![image](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/assets/172588428/f78cee04-f835-4933-856e-bf7831f61f21)
+  ![image](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/assets/172588428/9d3dfb79-474e-4a0a-af5b-1e3ff3a784ef)
+
 
 
 
