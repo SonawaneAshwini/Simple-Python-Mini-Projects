@@ -9,22 +9,9 @@ These mini projects showcase Python's versatility in practical applications, cov
 This repository contains a collection of Python mini projects. Below is a list of the projects included:
 
 
-1. [Age Calculator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Alarm%20Clock)
-2. [Alarm Clock](#alarm-clock)
-3. [ATM Simulation](#atm-simulation)
-4. [Binary-Decimal Converter](#binary-decimal-converter)
-5. [BMI Calculator](#bmi-calculator)
-6. [Calculator](#calculator)
-7. [Chess Game](#chess-game)
-8. [Countdown Timer](#countdown-timer)
-9. [Digital Whiteboard](#digital-whiteboard)
-10. [Get IP Address and Hostname](#get-ip-address-and-hostname)
-11. [Ludo Game](#ludo-game)
-12. [Number Guessing Game](#number-guessing-game)
-13. [Palindrome Checker](#palindrome-checker)
-14. [Personal Expenses Tracker](#personal-expenses-tracker)
-15. [Python Quiz Application](#python-quiz-application)
-16. [Python Task Scheduler](#python-task-scheduler)
+
+1. [Alarm Clock](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Alarm%20Clock)
+
 
 
 
