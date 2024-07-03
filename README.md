@@ -92,7 +92,7 @@ You may use this tutorial freely at your own risk. See [LICENSE](https://github.
 
 **If you like this tutorial, please [give it a ⭐ star](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects).**
 
-Happy coding!
+**Thank you for visiting my repository! I hope you find my projects interesting and useful. 😊**
 
 
 
