@@ -16,6 +16,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |  03 | **[Binary-Decimal Converter](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Binary-Decimal%20Converter)** |
 |  04 | **[BMI_calulator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/BMI_calulator)** |
 |  05 | **[calculator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/calculator)** |
+|  06 | **[calculator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/calculator)** |
 
 
 
