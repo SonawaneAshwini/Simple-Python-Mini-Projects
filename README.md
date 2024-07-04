@@ -17,6 +17,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |  04 | **[BMI_calulator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/BMI_calulator)** |
 |  05 | **[calculator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/calculator)** |
 |  06 | **[Chess Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Chess%20Game)** |
+|  07 | **[CountdonwTimer](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Chess%20Game)** |
 
 
 
