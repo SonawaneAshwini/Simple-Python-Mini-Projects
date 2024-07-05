@@ -18,6 +18,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |  05 | **[calculator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/calculator)** |
 |  06 | **[Chess Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Chess%20Game)** |
 |  07 | **[Countdown Timer](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Countdown%20timer)** |
+|  08 | **[Digital White Board](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Digital%20White%20Board)** |
 
 
 
