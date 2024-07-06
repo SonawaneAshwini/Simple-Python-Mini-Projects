@@ -15,7 +15,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |  02 | **[ATM Simulator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/ATM%20Simulator)** |
 |  03 | **[Binary-Decimal Converter](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Binary-Decimal%20Converter)** |
 |  04 | **[BMI_calulator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/BMI_calulator)** |
-|  05 | **[calculator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Calculator)** |
+|  05 | **[Calculator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Calculator)** |
 |  06 | **[Chess Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Chess%20Game)** |
 |  07 | **[Countdown Timer](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Countdown%20timer)** |
 |  08 | **[Digital White Board](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Digital%20White%20Board)** |
