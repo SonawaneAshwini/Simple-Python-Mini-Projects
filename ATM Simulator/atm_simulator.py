@@ -22,7 +22,7 @@ class ATM:
             print(f"${amount:.2f} has been withdrawn. Your new balance is: ${self.balance:.2f}")
 
 def atm_menu():
-    atm = ATM(initial_balance=1000)  # Initial balance set to $1000 for demonstration
+    atm = ATM(initial_balance=1000)  
 
     while True:
         print("\n--- ATM Menu ---")
