@@ -22,7 +22,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |  09 | **[Get IP address and Hostname of Website](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Get%20IP%20address%20and%20Hostname%20of%20Website)** |
 |  10 | **[Grocery Store Management System](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Grocery%20Store%20Management%20System)** |
 |  11 | **[Hotel Management System](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Hotel%20Management%20System)** |
-|  12 | **[Lodo Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Hotel%20Management%20System)** |
+|  12 | **[Lodo Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Ludo%20Game)** |
 
 
 
