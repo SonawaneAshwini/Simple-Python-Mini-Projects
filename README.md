@@ -23,7 +23,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |  10 | **[Grocery Store Management System](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Grocery%20Store%20Management%20System)** |
 |  11 | **[Hotel Management System](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Hotel%20Management%20System)** |
 |  12 | **[Lodo Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Ludo%20Game)** |
-|  13 | **[Number Guesing Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Ludo%20Game)** |
+|  13 | **[Number Guessing Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Number%20Guessing%20Game)** |
 
 
 
