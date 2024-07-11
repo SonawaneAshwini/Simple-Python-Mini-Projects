@@ -11,20 +11,20 @@ This repository contains a collection of Python mini projects. Below is a list o
 
 | **No.** | **Name** | 
 | ------- | -------- | 
-|	01	| **[Alarm Clock](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Alarm%20Clock)** |
-|  02 | **[ATM Simulator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/ATM%20Simulator)** |
-|  03 | **[Binary-Decimal Converter](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Binary-Decimal%20Converter)** |
-|  04 | **[BMI_calulator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/BMI_calulator)** |
-|  05 | **[Calculator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Calculator)** |
-|  06 | **[Chess Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Chess%20Game)** |
-|  07 | **[Countdown Timer](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Countdown%20timer)** |
-|  08 | **[Digital White Board](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Digital%20White%20Board)** |
-|  09 | **[Get IP address and Hostname of Website](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Get%20IP%20address%20and%20Hostname%20of%20Website)** |
-|  10 | **[Grocery Store Management System](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Grocery%20Store%20Management%20System)** |
-|  11 | **[Hotel Management System](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Hotel%20Management%20System)** |
-|  12 | **[Lodo Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Ludo%20Game)** |
-|  13 | **[Number Guessing Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Number%20Guessing%20Game)** |
-|  14 | **[Number to Words](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Number%20to%20Words)** |
+|	**01**	| **[Alarm Clock](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Alarm%20Clock)** |
+|  **02** | **[ATM Simulator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/ATM%20Simulator)** |
+|  **03** | **[Binary-Decimal Converter](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Binary-Decimal%20Converter)** |
+|  **04** | **[BMI_calulator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/BMI_calulator)** |
+|  **05** | **[Calculator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Calculator)** |
+|  **06** | **[Chess Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Chess%20Game)** |
+|  **07** | **[Countdown Timer](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Countdown%20timer)** |
+|  **08** | **[Digital White Board](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Digital%20White%20Board)** |
+|  **09** | **[Get IP address and Hostname of Website](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Get%20IP%20address%20and%20Hostname%20of%20Website)** |
+|  **10** | **[Grocery Store Management System](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Grocery%20Store%20Management%20System)** |
+|  **11** | **[Hotel Management System](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Hotel%20Management%20System)** |
+|  **12** | **[Lodo Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Ludo%20Game)** |
+|  **13** | **[Number Guessing Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Number%20Guessing%20Game)** |
+|  **14** | **[Number to Words](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Number%20to%20Words)** |
 
 
 
