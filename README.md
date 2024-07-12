@@ -25,7 +25,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |  **12** | **[Lodo Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Ludo%20Game)** |
 |  **13** | **[Number Guessing Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Number%20Guessing%20Game)** |
 |  **14** | **[Number to Words](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Number%20to%20Words)** |
-|  **15** | **[Palindrome Checker](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Number%20to%20Words)** |
+|  **15** | **[Palindrome Checker](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Palindrome%20Checker)** |
 
 
 
