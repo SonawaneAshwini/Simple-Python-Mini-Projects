@@ -81,7 +81,6 @@ This will clear all the outputs and now you can understand each statement and le
 You may use this tutorial freely at your own risk. See [LICENSE](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/blob/main/LICENSE).
 
 
-
 ## Contributors ✨
 
 
