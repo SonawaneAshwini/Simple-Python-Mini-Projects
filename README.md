@@ -31,7 +31,6 @@ This repository contains a collection of Python mini projects. Below is a list o
 |  **18** | **[QR Code Generator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Python%20Task%20Scheduler)** |
 
 
-
 ## How to Use This Repository
 
 To run any of the projects, follow these steps:
