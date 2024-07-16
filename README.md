@@ -29,7 +29,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |  **16** | **[Personal Expense Tracker](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Personal%20Expense%20Tracker)** |
 |  **17** | **[Python Task Scheduler](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Python%20Task%20Scheduler)** |
 |  **18** | **[QR Code Generator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/QR%20Code%20Generator)** |
-|  **19** | **[Random Password Generator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/QR%20Code%20Generator)** |
+|  **19** | **[Random Password Generator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Random%20Password%20Generator)** |
 
 
 ## How to Use This Repository
