@@ -30,7 +30,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |  **17** | **[Python Task Scheduler](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Python%20Task%20Scheduler)** |
 |  **18** | **[QR Code Generator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/QR%20Code%20Generator)** |
 |  **19** | **[Random Password Generator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Random%20Password%20Generator)** |
-|  **20** | **[Random Password Generator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Random%20Password%20Generator)** |
+|  **20** | **[Rock Paper, Scissor Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Rock%2C%20Paper%2C%20Scissors%20Game)** |
 
 
 
