@@ -35,7 +35,6 @@ This repository contains a collection of Python mini projects. Below is a list o
 |  **23** | **[Stopwatch Application](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Stopwatch%20Application)** |
 
 
-
 ## How to Use This Repository
 
 To run any of the projects, follow these steps:
