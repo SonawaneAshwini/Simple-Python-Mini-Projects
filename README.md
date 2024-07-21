@@ -33,6 +33,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |  **21** | **[Simple Contact Book](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Simple%20Contact%20Book)** |
 |  **22** | **[Snake Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Snake%20Game)** |
 |  **23** | **[Stopwatch Application](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Stopwatch%20Application)** |
+|  **24** | **[Text to Speech](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Stopwatch%20Application)** |
 
 
 ## How to Use This Repository
