@@ -26,7 +26,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |  **14** | **[Number to Words](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Number%20to%20Words)** |
 |  **15** | **[Palindrome Checker](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Palindrome%20Checker)** |
 |  **16** | **[Personal Expense Tracker](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Personal%20Expense%20Tracker)** |
-|  **17** | **[Python Quize Application](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Python%20Task%20Scheduler)** |
+|  **17** | **[Python Quize Application](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Python%20Quiz%20Application)** |
 |  **18** | **[Python Task Scheduler](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Python%20Task%20Scheduler)** |
 |  **19** | **[QR Code Generator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/QR%20Code%20Generator)** |
 |  **20** | **[Random Password Generator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Random%20Password%20Generator)** |
