@@ -26,14 +26,15 @@ This repository contains a collection of Python mini projects. Below is a list o
 |  **14** | **[Number to Words](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Number%20to%20Words)** |
 |  **15** | **[Palindrome Checker](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Palindrome%20Checker)** |
 |  **16** | **[Personal Expense Tracker](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Personal%20Expense%20Tracker)** |
-|  **17** | **[Python Task Scheduler](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Python%20Task%20Scheduler)** |
-|  **18** | **[QR Code Generator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/QR%20Code%20Generator)** |
-|  **19** | **[Random Password Generator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Random%20Password%20Generator)** |
-|  **20** | **[Rock Paper, Scissor Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Rock%2C%20Paper%2C%20Scissors%20Game)** |
-|  **21** | **[Simple Contact Book](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Simple%20Contact%20Book)** |
-|  **22** | **[Snake Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Snake%20Game)** |
-|  **23** | **[Stopwatch Application](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Stopwatch%20Application)** |
-|  **24** | **[Text to Speech](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Text%20to%20Speech)** |
+|  **17** | **[Python Quize Application](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Python%20Task%20Scheduler)** |
+|  **18** | **[Python Task Scheduler](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Python%20Task%20Scheduler)** |
+|  **19** | **[QR Code Generator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/QR%20Code%20Generator)** |
+|  **20** | **[Random Password Generator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Random%20Password%20Generator)** |
+|  **21** | **[Rock Paper, Scissor Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Rock%2C%20Paper%2C%20Scissors%20Game)** |
+|  **22** | **[Simple Contact Book](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Simple%20Contact%20Book)** |
+|  **23** | **[Snake Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Snake%20Game)** |
+|  **24** | **[Stopwatch Application](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Stopwatch%20Application)** |
+|  **25** | **[Text to Speech](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Text%20to%20Speech)** |
 
 
 ## How to Use This Repository
