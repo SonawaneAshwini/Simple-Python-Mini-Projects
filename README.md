@@ -34,8 +34,9 @@ This repository contains a collection of Python mini projects. Below is a list o
 |  **22** | **[Simple Contact Book](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Simple%20Contact%20Book)** |
 |  **23** | **[Snake Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Snake%20Game)** |
 |  **24** | **[Stopwatch Application](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Stopwatch%20Application)** |
-|  **25** | **[Text to Speech](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Text%20to%20Speech)** |
-|  **26** | **[Tic Tac Teo Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Tic-Tac-Toe%20Game)** |
+|  **25** | **[TO-DO list Application](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Text%20to%20Speech)** |
+|  **26** | **[Text to Speech](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Text%20to%20Speech)** |
+|  **27** | **[Tic Tac Teo Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Tic-Tac-Toe%20Game)** |
 
 
 ## How to Use This Repository
