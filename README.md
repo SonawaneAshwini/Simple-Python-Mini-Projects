@@ -37,7 +37,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |  **25** | **[TO-DO List Application](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/TO-DO%20List%20Application)** |
 |  **26** | **[Text to Speech](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Text%20to%20Speech)** |
 |  **27** | **[Tic Tac Teo Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Tic-Tac-Toe%20Game)** |
-|  **28** | **[Translate]()** |
+|  **28** | **[Translate](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Translate)** |
 
 
 ## How to Use This Repository
