@@ -42,6 +42,7 @@ This repository contains a collection of Python mini projects. Below is a list o
 |  **30** | **[Word Count Tool](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Word%20Count%20Tool)** |
 
 
+
 ## How to Use This Repository
 
 To run any of the projects, follow these steps:
