@@ -35,8 +35,11 @@ This repository contains a collection of Python mini projects. Below is a list o
 |  **27** | **[Text to Speech](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Text%20to%20Speech)** |
 |  **28** | **[Tic Tac Teo Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Tic-Tac-Toe%20Game)** |
 |  **29** | **[Translate](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Translate)** |
-|  **30** | **[Weather_App](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Weather_app)** |
+|  **30** | **[Word Count Tool](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Word%20Count%20Tool)** |
 |  **31** | **[Word Count Tool](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Word%20Count%20Tool)** |
+|  **32** | **[Weather_App](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Weather_app)** |
+|  **33** | **[Word Count Tool](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Word%20Count%20Tool)** |
+
 
 
 ## How to Use This Repository
