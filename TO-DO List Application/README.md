@@ -3,7 +3,6 @@ This Python TODO List Application allows users to manage tasks by adding, viewin
 
 ## Description
 The application provides basic functionality to manipulate tasks:
-
 - Add Task: Allows users to input a task which gets added to the task list.
 - View Tasks: Displays all tasks currently stored in the list.
 - Delete Task: Removes a task based on its index in the list.
