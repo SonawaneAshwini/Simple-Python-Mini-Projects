@@ -23,7 +23,6 @@ After cloning the repository and navigating to the project directory:
                 python todo_list.py
 ```                                
 Follow the on-screen prompts to interact with the TODO List Application.
-
 ## Script Overview
 The 'todo_list.py' script implements a menu-driven interface where users can perform various operations on tasks:
 
