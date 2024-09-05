@@ -30,7 +30,6 @@ The 'todo_list.py' script implements a menu-driven interface where users can per
 - View Tasks: Display all tasks currently stored.
 - Delete Task: Remove a task by specifying its index.
 - Exit: Quit the application
-
 ## Example Usage
 ```bash
 
