@@ -5,8 +5,9 @@ These mini projects showcase Python's versatility in practical applications, cov
 This repository contains a collection of Python mini projects. Below is a list of the projects included:
 | **No.** | **Name** | 
 | ------- | -------- | 
-|	**01**	| **[Alarm Clock](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Alarm%20Clock)** |
 |  **02** | **[ATM Simulator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/ATM%20Simulator)** |
+|	**01** | **[Age Calculator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Age%20Calculator)** |
+|	**01** | **[Alarm Clock](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Alarm%20Clock)** |
 |  **03** | **[Binary-Decimal Converter](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Binary-Decimal%20Converter)** |
 |  **04** | **[BMI_calulator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/BMI_calulator)** |
 |  **05** | **[Calculator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Calculator)** |
