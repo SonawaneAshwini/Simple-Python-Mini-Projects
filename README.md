@@ -5,40 +5,40 @@ These mini projects showcase Python's versatility in practical applications, cov
 This repository contains a collection of Python mini projects. Below is a list of the projects included:
 | **No.** | **Name** | 
 | ------- | -------- | 
-|  **02** | **[ATM Simulator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/ATM%20Simulator)** |
-|	**01** | **[Age Calculator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Age%20Calculator)** |
-|	**01** | **[Alarm Clock](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Alarm%20Clock)** |
-|  **03** | **[Binary-Decimal Converter](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Binary-Decimal%20Converter)** |
-|  **04** | **[BMI_calulator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/BMI_calulator)** |
-|  **05** | **[Calculator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Calculator)** |
-|  **06** | **[Chess Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Chess%20Game)** |
-|  **07** | **[Countdown Timer](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Countdown%20timer)** |
-|  **08** | **[Digital White Board](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Digital%20White%20Board)** |
-|  **09** | **[Get IP address and Hostname of Website](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Get%20IP%20address%20and%20Hostname%20of%20Website)** |
-|  **10** | **[Grocery Store Management System](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Grocery%20Store%20Management%20System)** |
-|  **11** | **[Habit Tracker with Data Visualization](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Habit%20Tracker%20with%20Data%20Visualization)** |
-|  **12** | **[Hotel Management System](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Hotel%20Management%20System)** |
-|  **13** | **[Lodo Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Ludo%20Game)** |
-|  **14** | **[Number Guessing Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Number%20Guessing%20Game)** |
-|  **15** | **[Number to Words](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Number%20to%20Words)** |
-|  **16** | **[Palindrome Checker](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Palindrome%20Checker)** |
-|  **17** | **[Personal Expense Tracker](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Personal%20Expense%20Tracker)** |
-|  **18** | **[Python Quize Application](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Python%20Quiz%20Application)** |
-|  **19** | **[Python Task Scheduler](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Python%20Task%20Scheduler)** |
-|  **20** | **[QR Code Generator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/QR%20Code%20Generator)** |
-|  **21** | **[Random Password Generator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Random%20Password%20Generator)** |
-|  **22** | **[Rock Paper, Scissor Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Rock%2C%20Paper%2C%20Scissors%20Game)** |
-|  **23** | **[Simple Contact Book](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Simple%20Contact%20Book)** |
-|  **24** | **[Snake Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Snake%20Game)** |
-|  **25** | **[Stopwatch Application](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Stopwatch%20Application)** |
-|  **26** | **[TO-DO List Application](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/TO-DO%20List%20Application)** |
-|  **27** | **[Text to Speech](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Text%20to%20Speech)** |
-|  **28** | **[Tic Tac Teo Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Tic-Tac-Toe%20Game)** |
-|  **29** | **[Translate](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Translate)** |
-|  **30** | **[Virtual Plant Care Simulato](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Virtual%20Plant%20Care%20Simulato)** |
-|  **31** | **[Voice-Controlled Home Automation Simulator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Voice-Controlled%20Home%20Automation%20Simulator)** |
-|  **32** | **[Weather_App](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Weather_app)** |
-|  **33** | **[Word Count Tool](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Word%20Count%20Tool)** |
+|  **01** | **[ATM Simulator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/ATM%20Simulator)** |
+|	**02** | **[Age Calculator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Age%20Calculator)** |
+|	**03** | **[Alarm Clock](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Alarm%20Clock)** |
+|  **04** | **[Binary-Decimal Converter](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Binary-Decimal%20Converter)** |
+|  **05** | **[BMI_calulator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/BMI_calulator)** |
+|  **06** | **[Calculator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Calculator)** |
+|  **07** | **[Chess Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Chess%20Game)** |
+|  **08** | **[Countdown Timer](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Countdown%20timer)** |
+|  **09** | **[Digital White Board](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Digital%20White%20Board)** |
+|  **10** | **[Get IP address and Hostname of Website](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Get%20IP%20address%20and%20Hostname%20of%20Website)** |
+|  **11** | **[Grocery Store Management System](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Grocery%20Store%20Management%20System)** |
+|  **12** | **[Habit Tracker with Data Visualization](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Habit%20Tracker%20with%20Data%20Visualization)** |
+|  **13** | **[Hotel Management System](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Hotel%20Management%20System)** |
+|  **14** | **[Lodo Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Ludo%20Game)** |
+|  **15** | **[Number Guessing Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Number%20Guessing%20Game)** |
+|  **16** | **[Number to Words](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Number%20to%20Words)** |
+|  **17** | **[Palindrome Checker](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Palindrome%20Checker)** |
+|  **18** | **[Personal Expense Tracker](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Personal%20Expense%20Tracker)** |
+|  **19** | **[Python Quize Application](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Python%20Quiz%20Application)** |
+|  **20** | **[Python Task Scheduler](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Python%20Task%20Scheduler)** |
+|  **21** | **[QR Code Generator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/QR%20Code%20Generator)** |
+|  **22** | **[Random Password Generator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Random%20Password%20Generator)** |
+|  **23** | **[Rock Paper, Scissor Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Rock%2C%20Paper%2C%20Scissors%20Game)** |
+|  **24** | **[Simple Contact Book](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Simple%20Contact%20Book)** |
+|  **25** | **[Snake Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Snake%20Game)** |
+|  **26** | **[Stopwatch Application](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Stopwatch%20Application)** |
+|  **27** | **[TO-DO List Application](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/TO-DO%20List%20Application)** |
+|  **28** | **[Text to Speech](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Text%20to%20Speech)** |
+|  **29** | **[Tic Tac Teo Game](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Tic-Tac-Toe%20Game)** |
+|  **30** | **[Translate](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Translate)** |
+|  **31** | **[Virtual Plant Care Simulato](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Virtual%20Plant%20Care%20Simulato)** |
+|  **32** | **[Voice-Controlled Home Automation Simulator](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Voice-Controlled%20Home%20Automation%20Simulator)** |
+|  **33** | **[Weather_App](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Weather_app)** |
+|  **34** | **[Word Count Tool](https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects/tree/main/Word%20Count%20Tool)** |
 
 ## How to Use This Repository
 
