@@ -38,5 +38,6 @@ Choose an option: 1
 Listening...
 You said: turn on light
 ```
+
 ## Acknowledgments:
 - This project uses the [SpeechRecognition](https://pypi.org/project/SpeechRecognition/) library for voice command recognition.
