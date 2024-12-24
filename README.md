@@ -53,7 +53,7 @@ Follow these steps to explore and use this repository effectively:
 ### 1. Clone the Repository
 Clone the repository to your local machine using the following command:
 ```bash
-git clone https://github.com/ShravanDalavi/Simple-Python-Mini-Projects.git
+git clone https://github.com/SonawaneAshwini/Simple-Python-Mini-Projects.git
 ```
 
 Alternatively, you can download the repository as a ZIP file and extract it.
